@@ -976,6 +976,7 @@ footer {
     }
     #features {
         padding: 80px 0;
+        background-color: #fff;
     }
     .features {
         gap: 20px;
