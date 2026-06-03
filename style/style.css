@@ -1103,10 +1103,13 @@ footer {
         align-items: center;
     }
     .cta .app_download_buttons img {
-        height: 70px;
+        height: 60px;
     }
-    .cta .app_download_buttons img:first-child {
-        width: 209px;
+    .cta:first-child .app_download_buttons img {
+        width: 179.5px;
+    }
+    .cta:last-child  .app_download_buttonsimg {
+        width: 202.31px;
     }
     .cta p {
         font-size: 24px;
