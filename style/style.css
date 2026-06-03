@@ -619,6 +619,7 @@ h1 {
     background: linear-gradient(to right, #C560F6, #4A85EC);
     color: #fff;
     transition: all .3s;
+    position: relative;
 }
 
 .button.free_trial:hover {
@@ -976,7 +977,6 @@ footer {
     }
     #features {
         padding: 80px 0;
-        background-color: #fff;
     }
     .features {
         gap: 20px;
