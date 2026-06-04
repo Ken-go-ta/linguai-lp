@@ -744,6 +744,27 @@ footer {
     opacity: .5;
 } 
 
+@media screen and (max-width: 1500px) {
+    header {
+        margin: 30px 0 0;
+    }
+    #hero .content_wrapper {
+        padding: 30px 0 80px;
+    }
+    .headline_s {
+        font-size: 54px;
+    }
+    .headline_l {
+        font-size: 185px;
+    }
+    .top_message {
+        font-size: 36px;
+    }
+    .hero_right {
+        width: 345px;
+    }
+}
+
 @media screen and (max-width: 1320px) {
     .h2_s {
         font-size: 30px;
